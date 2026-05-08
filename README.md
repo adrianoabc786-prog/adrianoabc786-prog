@@ -46,7 +46,8 @@ Exploring the art and science of prompt engineering and practical AI application
 
 I'm always interested in collaborating on interesting projects, discussing ideas, or learning from the community.
 
-- **GitHub:** [@adrianoabc786-prog](https://github.com/adrianoabc786-prog)
+- **GitHub:** [@adrianoabc786-prog](https://github.com/adrianoabc786-prog
+- **Linkedin:** [adrianoabc786@gmail.com]
 - **Interests:** AI, Software Engineering, Open Source
 
 ---
